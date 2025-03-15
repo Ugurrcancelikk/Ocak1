@@ -1,0 +1,15 @@
+C:\Users\ugrst\Documents\GitHub\Ocak1\Ocak1\Ocak1\bin\Debug\net9.0\Ocak1.exe
+C:\Users\ugrst\Documents\GitHub\Ocak1\Ocak1\Ocak1\bin\Debug\net9.0\Ocak1.deps.json
+C:\Users\ugrst\Documents\GitHub\Ocak1\Ocak1\Ocak1\bin\Debug\net9.0\Ocak1.runtimeconfig.json
+C:\Users\ugrst\Documents\GitHub\Ocak1\Ocak1\Ocak1\bin\Debug\net9.0\Ocak1.dll
+C:\Users\ugrst\Documents\GitHub\Ocak1\Ocak1\Ocak1\bin\Debug\net9.0\Ocak1.pdb
+C:\Users\ugrst\Documents\GitHub\Ocak1\Ocak1\Ocak1\obj\Debug\net9.0\Ocak1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugrst\Documents\GitHub\Ocak1\Ocak1\Ocak1\obj\Debug\net9.0\Ocak1.AssemblyInfoInputs.cache
+C:\Users\ugrst\Documents\GitHub\Ocak1\Ocak1\Ocak1\obj\Debug\net9.0\Ocak1.AssemblyInfo.cs
+C:\Users\ugrst\Documents\GitHub\Ocak1\Ocak1\Ocak1\obj\Debug\net9.0\Ocak1.csproj.CoreCompileInputs.cache
+C:\Users\ugrst\Documents\GitHub\Ocak1\Ocak1\Ocak1\obj\Debug\net9.0\Ocak1.sourcelink.json
+C:\Users\ugrst\Documents\GitHub\Ocak1\Ocak1\Ocak1\obj\Debug\net9.0\Ocak1.dll
+C:\Users\ugrst\Documents\GitHub\Ocak1\Ocak1\Ocak1\obj\Debug\net9.0\refint\Ocak1.dll
+C:\Users\ugrst\Documents\GitHub\Ocak1\Ocak1\Ocak1\obj\Debug\net9.0\Ocak1.pdb
+C:\Users\ugrst\Documents\GitHub\Ocak1\Ocak1\Ocak1\obj\Debug\net9.0\Ocak1.genruntimeconfig.cache
+C:\Users\ugrst\Documents\GitHub\Ocak1\Ocak1\Ocak1\obj\Debug\net9.0\ref\Ocak1.dll
